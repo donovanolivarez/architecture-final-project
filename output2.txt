@@ -1,0 +1,41 @@
+Cache Simulator - CS 3853 - Group #20
+
+Trace File: Trace1.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:                    256 KB
+Block Size:                    64 bytes
+Associativity:                 4
+Policy:                        Round Robin
+
+***** Cache Calculated Values *****
+
+Total # Blocks:                4096
+Tag Size:                      16 bits
+Index Size:                    10 bits, Total Rows: 1024
+Total # Rows:                  1024
+Overhead Size:                 8704 bytes
+Implementation Memory Size:    264.50 KB (270336 bytes)
+Cost:                          $13.23
+
+0x7c81eb33: (1)
+0x7c81eb34: (1)
+0x7c81eb35: (3)
+0x78158e69: (1)
+0x78158e6a: (3)
+0x01763891: (1)
+0x01763892: (1)
+0x01763893: (1)
+0x01763894: (1)
+0x01763895: (1)
+0x01763896: (1)
+0x01763897: (1)
+0x01763898: (1)
+0x01763899: (1)
+0x0176389a: (1)
+0x0176389b: (1)
+0x0176389c: (1)
+0x0176389d: (1)
+0x0176389e: (1)
+0x0176389f: (1)
